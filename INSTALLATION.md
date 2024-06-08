@@ -13,7 +13,7 @@ Before you begin, ensure you have the following:
 First, clone the repository to your local machine using Git. Open a terminal or command prompt and run the following command:
 
 ```bash
-git clone https://github.com/yourusername/keylogger.git
+git clone https://github.com/shivamk2984/Keylogger-python.git
 cd keylogger
 ```
 
