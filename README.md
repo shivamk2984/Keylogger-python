@@ -19,3 +19,6 @@ This project is a Python-based keylogger that captures keystrokes and periodical
 
 ## How to decrypt
 Once you recieve log.txt file on you email, copy the contents of it and paste it into decrypt_log.py (check comments)
+
+## Stopping keylogger
+To stop the keylogger, go to task manager and then to details, search for "python.exe" and end it's process.
