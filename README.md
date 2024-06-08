@@ -18,4 +18,4 @@ This project is a Python-based keylogger that captures keystrokes and periodical
 - A Gmail account (with app-specific password if using 2FA)
 
 ## How to decrypt
-once you recieve log.txt file on you email, copy the contents of it and paste it into decrypt_log.py
+Once you recieve log.txt file on you email, copy the contents of it and paste it into decrypt_log.py (check comments)
